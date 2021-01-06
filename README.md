@@ -1,8 +1,8 @@
 # Helpdesk tool 
-This is a helpdesk tool i have scripted. A stable version will be released after a rewrite.
-Made with t
+This is a helpdesk tool i have scripted in powershell. A stable version will be released after a rewrite.
 <br>
+# Showcase
+![Alt Text](./Main_Showcase.png)
 
 # Showcase
-
-![Alt Text](./Main_Showcase.png)
+Made with Powershell Studio 2020
