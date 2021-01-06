@@ -4,6 +4,7 @@ This is a helpdesk tool i have scripted in powershell. A stable version will be 
 # Showcase
 ![Alt Text](./Main_Showcase.png)
 <br>
+# Password Reset
 ![Alt Text](./Password-reset.png)
 
 # Credit
