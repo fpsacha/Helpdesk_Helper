@@ -4,5 +4,5 @@ This is a helpdesk tool i have scripted in powershell. A stable version will be 
 # Showcase
 ![Alt Text](./Main_Showcase.png)
 
-# Showcase
+# Credit
 Made with Powershell Studio 2020
