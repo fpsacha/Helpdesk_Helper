@@ -4,4 +4,4 @@
 
 # Showcase
 
-![Alt Text](./main_showcase.gif)
+![Alt Text](./Main_Showcase.png)
