@@ -1,2 +1,7 @@
 # Helpdesk tool 
-https://i.imgur.com/nqL5h7P.png
+
+<br>
+
+# Showcase
+
+![Alt Text](./main_showcase.gif)
