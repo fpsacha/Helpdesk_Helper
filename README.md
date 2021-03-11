@@ -2,7 +2,7 @@
 Helpdesk Helper i have created in powershell Studio. 
 <br>
 # Showcase
-![Alt Text](./Main_Showcase.png)
+![Alt Text](./Main_Tab.png)
 <br>
 # Password Reset
 ![Alt Text](./Password-reset.png)
