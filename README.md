@@ -1,4 +1,4 @@
-# Helpdesk tool 
+# Helpdesk Helper 
 Helpdesk Helper i have created in powershell Studio. 
 <br>
 # Showcase
