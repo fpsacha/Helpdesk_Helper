@@ -1,5 +1,5 @@
 # Helpdesk Helper 
-Helpdesk Helper i have created in powershell Studio. 
+Helpdesk Helper i have created in powershell Studio. Release soon !
 <br>
 # Showcase
 ![Alt Text](./Main_Tab.png)
