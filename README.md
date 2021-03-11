@@ -1,5 +1,5 @@
 # Helpdesk tool 
-This is a helpdesk tool i have scripted in powershell. A stable version will be released after a rewrite.
+Helpdesk Helper i have created in powershell Studio. 
 <br>
 # Showcase
 ![Alt Text](./Main_Showcase.png)
